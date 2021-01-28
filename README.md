@@ -8,14 +8,14 @@
 2.编译项目
 
 ```bash
-cd fisco/asset-app
+cd fisco/code
 ./gradlew build
 ```
 
 3.运行代码
 
 ```bash
-cd fisco/asset-app/dist
+cd fisco/code/dist
 bash asset_run.sh deploy
 ```
 
